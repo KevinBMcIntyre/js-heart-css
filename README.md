@@ -20,6 +20,7 @@
   9. Select the last item in the list — add `.slug-list-last`
   10. Select `<dl>` — add `.classification`
   11. Select the `<dt>` tags — remove `.big-label`
+
   12. Select the last item in the list — make it visible
 - **DO NOT change the HTML.**
 - **DO NOT change the CSS.**
